@@ -7,4 +7,4 @@ For the operational part, we train a DDQN model to select an appropriate action 
 
 For the alarm part, we use flow entrophy of power network to decide whether or not to trigger the alarm in the current timestep.
 ## License
-This content is released under the [MIT License](http://opensource.org/licenses/MIT).
+This content is released under the [Mozilla Public License (MPL) v2.0](https://www.mozilla.org/en-US/MPL/2.0/).
